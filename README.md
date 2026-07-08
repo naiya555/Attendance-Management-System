@@ -1,35 +1,45 @@
 # 📋 Attendance Management System
 
-A console-based Attendance Management System developed in **C++** for managing student/employee attendance. The system validates user input, calculates attendance percentage, and generates reports in **TXT** and **CSV** formats.
+A console-based **Attendance Management System** developed in **C++**. The system manages attendance records for students or employees, validates user input, calculates attendance percentage, and generates reports in **TXT** and **CSV** formats.
 
 ## ✨ Features
-- Year & Month selection
-- Leap Year support
-- Working Days validation
-- Input validation
-- Attendance percentage calculation
-- TXT & CSV report generation
+
+- 📅 Year & Month Selection
+- 📆 Leap Year Support
+- ✅ Working Days Validation
+- 🔢 Input Validation
+- 📊 Attendance Percentage Calculation
+- 📄 TXT Report Generation
+- 📑 CSV Report Generation (Excel Compatible)
 
 ## 🛠️ Technologies Used
+
 - C++
-- File Handling
+- File Handling (`fstream`)
 - Structures
 - Functions
+
 
 ## 📸 Screenshots
 
 ### Console Input
-![Console Input](./screenshots/Console_Output1.jpeg)
+
+<img src="./screenshots/Console_Output1.jpeg" width="700">
 
 ### Console Output
-![Console Output](./screenshots/Console_Output2.jpeg)
+
+<img src="./screenshots/Console_Output2.jpeg" width="700">
 
 ### TXT Report
-![TXT Report](./screenshots/Attendance_Report_TXT.jpeg)
 
-### CSV Report
-![CSV Report]([./screenshots/Attendance_Report_CSV.jpeg](https://github.com/naiya555/Attendance-Management-System/blob/main/screenshorts/Attendance_Report_CSV.jpeg))
+<img src="./screenshots/Attendance_Report_TXT.jpeg" width="700">
+
+### CSV Report (Excel)
+
+<img src="./screenshots/Attendance_Report_CSV.jpeg" width="700">
 
 ## 👩‍💻 Author
 
-**Naiya Sharma**  
+**Naiya Sharma**
+
+GitHub: **@naiya555**
