@@ -19,16 +19,16 @@ A console-based Attendance Management System developed in **C++** for managing s
 ## 📸 Screenshots
 
 ### Console Input
-![Console Input](screenshots/Console_Output1.jpeg)
+![Console Input](./screenshots/Console_Output1.jpeg)
 
 ### Console Output
-![Console Output](screenshots/Console_Output2.jpeg)
+![Console Output](./screenshots/Console_Output2.jpeg)
 
 ### TXT Report
-![TXT Report](screenshots/Attendance_Report_TXT.jpeg)
+![TXT Report](./screenshots/Attendance_Report_TXT.jpeg)
 
 ### CSV Report
-![CSV Report](screenshots/Attendance_Report_CSV.jpeg)
+![CSV Report](./screenshots/Attendance_Report_CSV.jpeg)
 
 ## 👩‍💻 Author
 
