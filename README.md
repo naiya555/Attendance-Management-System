@@ -33,4 +33,3 @@ A console-based Attendance Management System developed in **C++** for managing s
 ## 👩‍💻 Author
 
 **Naiya Sharma**  
-GitHub: **@naiya555**
