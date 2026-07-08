@@ -42,4 +42,3 @@ A console-based **Attendance Management System** developed in **C++**. The syste
 
 **Naiya Sharma**
 
-GitHub: **@naiya555**
