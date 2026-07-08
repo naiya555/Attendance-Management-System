@@ -28,7 +28,7 @@ A console-based Attendance Management System developed in **C++** for managing s
 ![TXT Report](./screenshots/Attendance_Report_TXT.jpeg)
 
 ### CSV Report
-![CSV Report](./screenshots/Attendance_Report_CSV.jpeg)
+![CSV Report]([./screenshots/Attendance_Report_CSV.jpeg](https://github.com/naiya555/Attendance-Management-System/blob/main/screenshorts/Attendance_Report_CSV.jpeg))
 
 ## 👩‍💻 Author
 
