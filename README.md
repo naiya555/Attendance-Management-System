@@ -24,19 +24,19 @@ A console-based **Attendance Management System** developed in **C++**. The syste
 
 ### Console Input
 
-<img src="./screenshots/Console_Output1.jpeg" width="700">
+<img src="./screenshorts/Console_Output1.jpeg" width="700">
 
 ### Console Output
 
-<img src="./screenshots/Console_Output2.jpeg" width="700">
+<img src="./screenshorts/Console_Output2.jpeg" width="700">
 
 ### TXT Report
 
-<img src="./screenshots/Attendance_Report_TXT.jpeg" width="700">
+<img src="./screenshorts/Attendance_Report_TXT.jpeg" width="700">
 
 ### CSV Report (Excel)
 
-<img src="./screenshots/Attendance_Report_CSV.jpeg" width="700">
+<img src="./screenshorts/Attendance_Report_CSV.jpeg" width="700">
 
 ## 👩‍💻 Author
 
