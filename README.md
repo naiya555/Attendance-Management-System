@@ -15,7 +15,7 @@ A console-based **Attendance Management System** developed in **C++**. The syste
 ## 🛠️ Technologies Used
 
 - C++
-- File Handling (`fstream`)
+- File Handling 
 - Structures
 - Functions
 
