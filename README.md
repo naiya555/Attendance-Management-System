@@ -1,6 +1,6 @@
 # 📋 Attendance Management System
 
-A console-based **Attendance Management System** developed in **C++**. The system manages attendance records for students or employees, validates user input, calculates attendance percentage, and generates reports in **TXT** and **CSV** formats.
+A console-based **Attendance Management System** developed in **C++**. The system manages attendance records for **students and employees**, validates user input, calculates attendance percentage, records overtime hours, and generates reports in **TXT** and **CSV** formats.
 
 ## ✨ Features
 
